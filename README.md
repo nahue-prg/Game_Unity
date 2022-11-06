@@ -1,5 +1,5 @@
 # Game_Unity
- Juego realizado para el curso desarrollo de videojuego de Coder House.
+ Juego realizado para el curso "Desarrollo de videojuegos" en Coder House, 2022.
 
  **Descripcion** 
  Juego de plataformas donde se debe llegar hasta el final del escenario para ganar.
